@@ -10,11 +10,8 @@ El curso de [Git y GitHub](http://https://platzi.com/clases/git-github/ "Git y G
 - El verdadero amor por las buenas prácticas.
 - Trucos muy buenos del profesor y sus personalidades múltiples.
 - Creado por el increíble Platzi Team.
-<<<<<<< HEAD
-=======
 - Incluye ejemplos en Windows,Linux y Mac.
 - Disponible para todas la edades.
->>>>>>> readme-mejorado
 
 ------------
 
