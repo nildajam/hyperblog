@@ -9,6 +9,7 @@ El curso de [Git y GitHub](http://https://platzi.com/clases/git-github/ "Git y G
 - El flujo de trabajo en GitHub.
 - El verdadero amoe por las buenas prácticas.
 - Trucos muy buenos del profesor y sus personalidades múltiples.
+- Creado por el increíble Platzi Team.
 
 ------------
 
